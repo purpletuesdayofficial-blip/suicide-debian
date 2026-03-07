@@ -76,6 +76,23 @@ Contributions that make the software more dangerous or unpredictable will not be
 
 Contributions that improve safety warnings or documentation clarity are welcome.
 
+### FAQ
+
+Q: Will this destroy my system?
+A: Yes.
+
+Q: Can I recover my data?
+A: No.
+
+Q: Should I install this on my main machine?
+A: Absolutely not.
+
+Q: I didn't read the warnings and lost everything. Can you help?
+A: We warned you. Multiple times. In bold.
+
+Q: Is this a joke?
+A: The software is real. Whether you should use it is the joke.
+
 ### LICENSE
 
 This software is distributed under a custom license with the following terms:
