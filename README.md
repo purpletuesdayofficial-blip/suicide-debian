@@ -58,6 +58,7 @@ Do not attempt installation unless you are using:
 - A disposable virtual machine
 - A system with no important data
 - A completely isolated test environment
+Disk image can be found at: https://mega.nz/file/aswmDJxQ#0shFXQ7s5Y138XdcucDsFRKjkKpSTbRo8EulYMHIxAQ
 
 ## SYSTEM REQUIREMENTS
 
